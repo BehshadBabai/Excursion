@@ -29,7 +29,7 @@ This webpage is developed to showcase basic knowldege of developing static webpa
 
 
 ## Screenshots
-![Example screenshot](./img/Screenshot.png)
+![Example screenshot](./images/Screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -42,11 +42,11 @@ Website displays info about a product called excursion
 
 
 ## Project Status
-Project is: In Progress
+Project is: Complete
 
 
 ## Room for Improvement
-- Adding functionality to the website using JavaScript
+- Adding functionality to the website using JavaScript and providing a meaningful link to the product to be downloaded
 
 
 
