@@ -17,7 +17,7 @@ Excursion
 
 
 ## General Information
-This webpage is developed to showcase basic knowldege of developing static webpages. The website is a static website providing information on a product named excursion. 
+This webpage is developed to showcase basic knowledge of developing static webpages. The website is a static website providing information on a product named excursion. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
