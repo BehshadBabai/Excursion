@@ -29,7 +29,7 @@ This webpage is developed to showcase basic knowldege of developing static webpa
 
 
 ## Screenshots
-![Example screenshot](./images/Screenshot.png)
+![Example screenshot](./resources/images/Screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
